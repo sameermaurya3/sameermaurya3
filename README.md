@@ -8,17 +8,15 @@
       
 <h3 align="center">A Passionate Full-stack Developer from Varanasi, UP, India</h3>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=pavith19&label=Profile%20Views&color=0e75b6&style=flat" alt="pavith19" />&nbsp;
-    <img alt="Stars" src="https://img.shields.io/github/stars/Pavith19?style=flat-square&label=Stars&labelColor=343b41"/>
+    <img src="https://komarev.com/ghpvc/?username=sameermaurya3&label=Profile%20Views&color=0e75b6&style=flat" alt="sameermaurya3" />&nbsp;
+    <img alt="Stars" src="https://img.shields.io/github/stars/sameermaurya3?style=flat-square&label=Stars&labelColor=343b41"/>
 </p>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
-- 🎓 Computer Science undergraduate at IIT
-
-- 🌱 I'm currently learning **PHP**
+- 🌱 I'm currently learning **C++**
 
 - 💬 Ask me about Anything! I'm happy to help ✌️
 
@@ -43,7 +41,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pavith19&show_icons=true&locale=en&theme=dark" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=sameermaurya3&show_icons=true&locale=en&theme=dark" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sameermaurya3&theme=dark&hide_border=false" /> 
 </td>
