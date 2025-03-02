@@ -5,9 +5,7 @@
 -->
 
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=65&duration=4200&pause=1800&lines=Hi+There!+👋;+I'm+Pavith+Bambaravanage!;" />
-</h1>        
+      
 <h3 align="center">A Passionate Full-stack Developer from Varanasi, UP, India</h3>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=pavith19&label=Profile%20Views&color=0e75b6&style=flat" alt="pavith19" />&nbsp;
@@ -47,11 +45,11 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pavith19&show_icons=true&locale=en&theme=dark" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pavith19&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sameermaurya3&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=pavith19&show_icons=true&locale=en&layout=compact&theme=dark"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sameermaurya3&show_icons=true&locale=en&layout=compact&theme=dark"/>
   
   </td>
 </tr>
@@ -92,13 +90,3 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://buymeacoffee.com/pavith_db" > <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--
--- Author: Pavith Bambaravanage
--- URL: https://github.com/Pavith19
--->
